@@ -1,0 +1,9 @@
+D:\workspace_c#\Attendance\Attendance\bin\Debug\Attendance.exe.config
+D:\workspace_c#\Attendance\Attendance\obj\Debug\Attendance.csprojResolveAssemblyReference.cache
+D:\workspace_c#\Attendance\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+D:\workspace_c#\Attendance\Attendance\obj\Debug\Attendance.csproj.GenerateResource.Cache
+D:\workspace_c#\Attendance\Attendance\bin\Debug\Attendance.exe
+D:\workspace_c#\Attendance\Attendance\bin\Debug\Attendance.pdb
+D:\workspace_c#\Attendance\Attendance\obj\Debug\Attendance.exe
+D:\workspace_c#\Attendance\Attendance\obj\Debug\Attendance.pdb
+D:\workspace_c#\Attendance\Attendance\obj\Debug\Attendance.Attendance.resources
